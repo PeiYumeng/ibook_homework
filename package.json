@@ -1,0 +1,23 @@
+{
+  "name": "ibook_homework",
+  "version": "1.0.0",
+  "description": "--- - SPA第一次作业 - 前四章为手动构建 - 后四章为自动构建",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PeiYumeng/ibook_homework.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PeiYumeng/ibook_homework/issues"
+  },
+  "homepage": "https://github.com/PeiYumeng/ibook_homework#readme",
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
